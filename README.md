@@ -8,3 +8,5 @@ temperature sensor, WiFi HTTP upload, and SIM900D SMS alerts.
 3. Upload firmware using Arduino IDE or PlatformIO
 #Backend can be found
 https://github.com/Yohanamtesfaye/emma-care-backend-and-Aurdino-code
+#The link to the vedio
+https://youtu.be/5WUpm46MWlI?si=tx-NBkpUx-D6G2B
